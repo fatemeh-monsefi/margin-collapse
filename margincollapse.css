@@ -1,0 +1,17 @@
+.first {
+    margin: 50px;
+    background-color: blue;
+}
+
+.second {
+    margin: 75px;
+    background-color: crimson;
+}
+
+div {
+    margin: 2rem;
+}
+
+h1 {
+    margin: 3rem;
+}
